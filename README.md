@@ -3,138 +3,67 @@
   <img src="tron_banner.svg" width="100%" alt="TRON Banner">
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                        TRON LEGACY  ·  SYSTEM PROFILE                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   ║
-║    ░                                                          ░   ║
-║    ░   ██████╗ ██████╗ ██╗██████╗      ██████╗ ███████╗████╗  ░   ║
-║    ░  ██╔════╝ ██╔══██╗██║██╔══██╗    ██╔════╝ ██╔════╝╚══██╗ ░   ║
-║    ░  ██║  ███╗██████╔╝██║██║  ██║    ██║  ███╗█████╗    ███╔╝ ░   ║
-║    ░  ██║   ██║██╔══██╗██║██║  ██║    ██║   ██║██╔══╝   ██╔══╝ ░   ║
-║    ░  ╚██████╔╝██║  ██║██║██████╔╝    ╚██████╔╝███████╗ ██████╗ ░  ║
-║    ░   ╚═════╝ ╚═╝  ╚═╝╚═╝╚═════╝      ╚═════╝ ╚══════╝ ╚═════╝ ░  ║
-║    ░                                                          ░   ║
-║    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   ║
-║                                                                  ║
-║         ◈  A R T I F I C I A L   I N T E L L I G E N C E  ◈      ║
-║                   S Y S T E M S   D E V E L O P E R               ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=INITIALIZING+NEURAL+INTERFACE...;LOADING+AI+SYSTEMS+STACK...;CONNECTING+TO+THE+GRID...;SYSTEM+ONLINE+%E2%97%88+READY)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=AI+Systems+Developer;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Building+intelligent+systems+on+the+grid.)](https://git.io/typing-svg)
 
 <br/>
 
-`▸ GRID LOCATION:` **Yerevan, Armenia** &nbsp;|&nbsp; `▸ CLEARANCE:` **AI Graduate** &nbsp;|&nbsp; `▸ STATUS:` **● ONLINE**
+# ARTUR GRIGORYAN
 
-</div>
+**`Artificial Intelligence Systems Developer`**
+
+*Yerevan, Armenia · AI Graduate · Building on the Grid*
 
 <br/>
 
----
-
-<div align="center">
-
-## ◈ &nbsp; S Y S T E M &nbsp; O V E R V I E W &nbsp; ◈
-
-</div>
-
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│  PROCESS THREAD :: AGrigoryan004                                        │
-│  ─────────────────────────────────────────────────────────────────────  │
-│                                                                         │
-│  I build intelligent systems that navigate the boundary between         │
-│  raw computation and human-level understanding.  My work spans          │
-│  RAG-powered AI assistants, generative models, computer vision          │
-│  pipelines, and reinforcement learning experiments — from research      │
-│  concepts to deployed infrastructure.                                   │
-│                                                                         │
-│  ACTIVE MODULES ▸  ML · DL · NLP · CV · RL · LLM                       │
-└─────────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-<div align="center">
-
-## ◈ &nbsp; F E A T U R E D &nbsp; P R O G R A M &nbsp; ◈
-
-</div>
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════════════════╗
-║                                                                       ║
-║    ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈   ║
-║                                                                       ║
-║         ██╗     ██╗ ██████╗ ██╗   ██╗███████╗                        ║
-║         ████╗  ████║██╔═══██╗██║   ██║██╔════╝                        ║
-║         ██╔████╔╝██║██║   ██║██║   ██║███████╗                        ║
-║         ██║╚██╔╝ ██║██║   ██║██║   ██║╚════██║                        ║
-║         ██║ ╚═╝  ██║╚██████╔╝╚██████╔╝███████║                        ║
-║         ╚═╝      ╚═╝ ╚═════╝  ╚═════╝ ╚══════╝                        ║
-║                                                                       ║
-║              I C   D E S I G N   A I   A S S I S T A N T             ║
-║                                                                       ║
-║    ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈   ║
-╚═══════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-> **`PROGRAM DESCRIPTION`** — An AI assistant built with **Retrieval-Augmented Generation (RAG)**, **Llama 3**, **FastAPI**, **React**, and **Ollama**. Engineered for intelligent Q&A, code understanding, and domain-specific knowledge retrieval using local LLM infrastructure.
-
-<div align="center">
-
-[![VIEW REPOSITORY](https://img.shields.io/badge/◈_VIEW_REPOSITORY-00D4FF?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000)](https://github.com/AGrigoryan004/NOUS-IC-Design-Assistant)
+[![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=00D4FF)](https://github.com/AGrigoryan004)
+![Profile Views](https://komarev.com/ghpvc/?username=AGrigoryan004&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0A0A0A)
 
 </div>
 
 ---
 
-<div align="center">
+## &nbsp; About
 
-## ◈ &nbsp; A C T I V E &nbsp; P R O G R A M S &nbsp; ◈
+I design and build intelligent systems at the intersection of research and engineering. My work spans **RAG-powered AI assistants**, **generative models**, **computer vision pipelines**, and **reinforcement learning** — from initial research concepts through to deployed infrastructure.
 
-</div>
+Currently focused on LLM applications and domain-specific AI systems using local model infrastructure.
+
+---
+
+## &nbsp; Featured Project
+
+<table>
+<tr>
+<td>
+
+### 🔷 &nbsp; NOUS — IC Design AI Assistant
+
+An AI assistant built with **Retrieval-Augmented Generation**, **Llama 3**, **FastAPI**, **React**, and **Ollama**.
+Designed for intelligent Q&A, code understanding, and domain-specific knowledge retrieval using fully local LLM infrastructure.
+
+[![View Repository](https://img.shields.io/badge/View_Repository-00D4FF?style=for-the-badge&logo=github&logoColor=000000&labelColor=0A0A0A)](https://github.com/AGrigoryan004/NOUS-IC-Design-Assistant)
+
+</td>
+</tr>
+</table>
+
+---
+
+## &nbsp; Project Areas
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-```
-╔══════════════════════════════════╗
-║  MODULE :: NLP                   ║
-║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
-║                                  ║
-║  💬 NATURAL LANGUAGE             ║
-║     PROCESSING                   ║
-╚══════════════════════════════════╝
-```
+**💬 &nbsp; Natural Language Processing**
 Text processing, language modeling, information extraction, and NLP pipeline development.
 
 </td>
 <td width="50%" valign="top">
 
-```
-╔══════════════════════════════════╗
-║  MODULE :: DL                    ║
-║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
-║                                  ║
-║  🧠 DEEP LEARNING                ║
-║     ARCHITECTURE                 ║
-╚══════════════════════════════════╝
-```
+**🧠 &nbsp; Deep Learning**
 Neural networks, generative models (GANs), representation learning, and modern DL techniques.
 
 </td>
@@ -142,29 +71,13 @@ Neural networks, generative models (GANs), representation learning, and modern D
 <tr>
 <td width="50%" valign="top">
 
-```
-╔══════════════════════════════════╗
-║  MODULE :: CV                    ║
-║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
-║                                  ║
-║  👁  COMPUTER VISION             ║
-║     PIPELINE                     ║
-╚══════════════════════════════════╝
-```
+**👁️ &nbsp; Computer Vision**
 Image classification with CNNs, object detection, image restoration, and visual understanding.
 
 </td>
 <td width="50%" valign="top">
 
-```
-╔══════════════════════════════════╗
-║  MODULE :: RL                    ║
-║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
-║                                  ║
-║  🎯 REINFORCEMENT                ║
-║     LEARNING                     ║
-╚══════════════════════════════════╝
-```
+**🎯 &nbsp; Reinforcement Learning**
 Intelligent decision-making, reward-based training, and policy optimization experiments.
 
 </td>
@@ -172,29 +85,13 @@ Intelligent decision-making, reward-based training, and policy optimization expe
 <tr>
 <td width="50%" valign="top">
 
-```
-╔══════════════════════════════════╗
-║  MODULE :: LLM                   ║
-║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
-║                                  ║
-║  🤖 LLM & RAG                   ║
-║     APPLICATIONS                 ║
-╚══════════════════════════════════╝
-```
+**🤖 &nbsp; LLM & RAG Applications**
 Building AI assistants with local LLMs, vector retrieval, and domain knowledge systems.
 
 </td>
 <td width="50%" valign="top">
 
-```
-╔══════════════════════════════════╗
-║  MODULE :: ALG                   ║
-║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
-║                                  ║
-║  📚 ALGORITHMS                   ║
-║     & THEORY                     ║
-╚══════════════════════════════════╝
-```
+**📐 &nbsp; Algorithms & Theory**
 Graph theory, dynamic programming, optimization, and classical algorithmic problem solving.
 
 </td>
@@ -203,32 +100,28 @@ Graph theory, dynamic programming, optimization, and classical algorithmic probl
 
 ---
 
-<div align="center">
+## &nbsp; Tech Stack
 
-## ◈ &nbsp; T E C H &nbsp; S T A C K &nbsp; / &nbsp; G R I D &nbsp; A R M O R Y &nbsp; ◈
+**Languages**
 
-</div>
+![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=00D4FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=00D4FF)
+![SQL](https://img.shields.io/badge/SQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=00D4FF)
 
-**`▸ LANGUAGES`**
-
-![Python](https://img.shields.io/badge/Python-00D4FF?style=for-the-badge&logo=python&logoColor=000000)
-![JavaScript](https://img.shields.io/badge/JavaScript-00D4FF?style=for-the-badge&logo=javascript&logoColor=000000)
-![SQL](https://img.shields.io/badge/SQL-00D4FF?style=for-the-badge&logo=postgresql&logoColor=000000)
-
-**`▸ AI & DEEP LEARNING`**
+**AI & Deep Learning**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-0A0A0A?style=for-the-badge&logo=pytorch&logoColor=00D4FF)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0A0A0A?style=for-the-badge&logo=tensorflow&logoColor=00D4FF)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0A0A0A?style=for-the-badge&logo=scikit-learn&logoColor=00D4FF)
 ![LangChain](https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge&logo=langchain&logoColor=00D4FF)
 
-**`▸ BACKEND & APIs`**
+**Backend & Infrastructure**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-0A0A0A?style=for-the-badge&logo=fastapi&logoColor=00D4FF)
 ![React](https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=00D4FF)
 ![Ollama](https://img.shields.io/badge/Ollama-0A0A0A?style=for-the-badge&logo=ollama&logoColor=00D4FF)
 
-**`▸ DATA & VISUALIZATION`**
+**Data & Visualization**
 
 ![NumPy](https://img.shields.io/badge/NumPy-0A0A0A?style=for-the-badge&logo=numpy&logoColor=00D4FF)
 ![Pandas](https://img.shields.io/badge/Pandas-0A0A0A?style=for-the-badge&logo=pandas&logoColor=00D4FF)
@@ -237,81 +130,47 @@ Graph theory, dynamic programming, optimization, and classical algorithmic probl
 
 ---
 
-<div align="center">
+## &nbsp; Experience
 
-## ◈ &nbsp; C O M B A T &nbsp; R E C O R D &nbsp; / &nbsp; E X P E R I E N C E &nbsp; ◈
+**Machine Learning Intern &nbsp;·&nbsp; Boo Vision**
 
-</div>
-
-```
-╔═════════════════════════════════════════════════════════════════════════╗
-║                                                                         ║
-║   ASSIGNMENT ▸  Machine Learning Intern                                 ║
-║   GRID SECTOR ▸  Boo Vision                                             ║
-║   ──────────────────────────────────────────────────────────────────    ║
-║                                                                         ║
-║   ◈  Radio signal processing & classification tasks                     ║
-║   ◈  ML-based classification models with feature extraction pipelines   ║
-║   ◈  Iterative model evaluation and performance optimization             ║
-║                                                                         ║
-╚═════════════════════════════════════════════════════════════════════════╝
-```
+- Radio signal processing and classification pipeline development
+- ML-based classification models with end-to-end feature extraction
+- Iterative model evaluation and performance optimization
 
 ---
 
+## &nbsp; GitHub Stats
+
 <div align="center">
 
-## ◈ &nbsp; G R I D &nbsp; S T A T S &nbsp; ◈
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AGrigoryan004&bg_color=0D1117&border_color=00D4FF&title_color=00D4FF&text_color=C9D1D9&icon_color=00D4FF&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AGrigoryan004&bg_color=0D1117&border_color=00D4FF&title_color=00D4FF&text_color=C9D1D9&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AGrigoryan004&theme=react&bg_color=010409&border_color=00D4FF&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AGrigoryan004&theme=react&bg_color=010409&border_color=00D4FF&title_color=00D4FF&text_color=FFFFFF&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+<br/><br/>
 
-<br/>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AGrigoryan004&theme=react&background=010409&border=00D4FF&ring=00D4FF&fire=FF6B35&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=888888)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AGrigoryan004&background=0D1117&border=00D4FF&ring=00D4FF&fire=FF6B35&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=6E7681)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-<div align="center">
+## &nbsp; Research Interests
 
-## ◈ &nbsp; R E S E A R C H &nbsp; V E C T O R S &nbsp; ◈
-
-</div>
-
-<div align="center">
-
-![ML](https://img.shields.io/badge/◈_Machine_Learning-00D4FF?style=flat-square&labelColor=000000)
-![DL](https://img.shields.io/badge/◈_Deep_Learning-00D4FF?style=flat-square&labelColor=000000)
-![NLP](https://img.shields.io/badge/◈_Natural_Language_Processing-00D4FF?style=flat-square&labelColor=000000)
-![LLM](https://img.shields.io/badge/◈_Large_Language_Models-00D4FF?style=flat-square&labelColor=000000)
-![RAG](https://img.shields.io/badge/◈_Retrieval--Augmented_Generation-00D4FF?style=flat-square&labelColor=000000)
-![CV](https://img.shields.io/badge/◈_Computer_Vision-00D4FF?style=flat-square&labelColor=000000)
-![RL](https://img.shields.io/badge/◈_Reinforcement_Learning-00D4FF?style=flat-square&labelColor=000000)
-![GenAI](https://img.shields.io/badge/◈_Generative_AI-00D4FF?style=flat-square&labelColor=000000)
-![IS](https://img.shields.io/badge/◈_Intelligent_Systems-00D4FF?style=flat-square&labelColor=000000)
-
-</div>
-
-<br/>
+![ML](https://img.shields.io/badge/Machine_Learning-0D1117?style=flat-square&color=0D1117&labelColor=00D4FF)
+![DL](https://img.shields.io/badge/Deep_Learning-0D1117?style=flat-square&color=0D1117&labelColor=00D4FF)
+![NLP](https://img.shields.io/badge/NLP-0D1117?style=flat-square&color=0D1117&labelColor=00D4FF)
+![LLM](https://img.shields.io/badge/Large_Language_Models-0D1117?style=flat-square&color=0D1117&labelColor=00D4FF)
+![RAG](https://img.shields.io/badge/Retrieval--Augmented_Generation-0D1117?style=flat-square&color=0D1117&labelColor=00D4FF)
+![CV](https://img.shields.io/badge/Computer_Vision-0D1117?style=flat-square&color=0D1117&labelColor=00D4FF)
+![RL](https://img.shields.io/badge/Reinforcement_Learning-0D1117?style=flat-square&color=0D1117&labelColor=00D4FF)
+![GenAI](https://img.shields.io/badge/Generative_AI-0D1117?style=flat-square&color=0D1117&labelColor=00D4FF)
 
 ---
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
-║   ░                                                  ░  ║
-║   ░    E N D   O F   L I N E .                       ░  ║
-║   ░                                                  ░  ║
-║   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-![Profile Views](https://komarev.com/ghpvc/?username=AGrigoryan004&color=00D4FF&style=for-the-badge&label=GRID+VISITORS&labelColor=000000)
+*Designing intelligent systems. &nbsp;|&nbsp; Yerevan, Armenia.*
 
 </div>
