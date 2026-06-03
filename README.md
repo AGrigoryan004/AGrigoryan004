@@ -16,33 +16,21 @@
 
 </div>
 
----
-
 ## 🧠 About Me
 
-```python
-class ArtashesGrigoryan:
+🎓 Artificial Intelligence Systems Graduate
 
-    def __init__(self):
-        self.role = "Artificial Intelligence Graduate"
-        self.location = "Yerevan, Armenia"
-        self.languages = ["Armenian", "Russian", "English"]
+📍 Yerevan, Armenia
 
-        self.interests = [
-            "Machine Learning",
-            "Deep Learning",
-            "NLP",
-            "Computer Vision",
-            "Reinforcement Learning",
-            "LLMs"
-        ]
+💡 Interested in:
+- Machine Learning
+- Deep Learning
+- NLP
+- Computer Vision
+- Reinforcement Learning
+- Large Language Models
 
-        self.currently = "Building intelligent systems using AI technologies"
-
-    def mission(self):
-        return "Apply AI to create practical solutions for real-world problems."
-```
-
+🚀 Currently exploring AI applications through research and practical projects.
 I'm an **AI Systems Developer** with hands-on experience in Machine Learning, Deep Learning, NLP, Computer Vision, Reinforcement Learning, and Large Language Model applications.
 
 My work ranges from **RAG-powered AI assistants** and **generative models** to **computer vision pipelines** and **algorithmic problem solving**. I'm passionate about understanding how intelligent systems can be designed, trained, and deployed to tackle both practical and research-oriented challenges.
