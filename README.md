@@ -133,7 +133,6 @@ Graph theory, dynamic programming, optimization, and classical algorithmic probl
 ![LLM](https://img.shields.io/badge/Large_Language_Models-0D1117?style=flat-square&color=0D1117&labelColor=00D4FF)
 ![RAG](https://img.shields.io/badge/Retrieval--Augmented_Generation-0D1117?style=flat-square&color=0D1117&labelColor=00D4FF)
 ![CV](https://img.shields.io/badge/Computer_Vision-0D1117?style=flat-square&color=0D1117&labelColor=00D4FF)
-![RL](https://img.shields.io/badge/Reinforcement_Learning-0D1117?style=flat-square&color=0D1117&labelColor=00D4FF)
 ![GenAI](https://img.shields.io/badge/Generative_AI-0D1117?style=flat-square&color=0D1117&labelColor=00D4FF)
 
 ---
