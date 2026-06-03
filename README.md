@@ -1,20 +1,6 @@
 <div align="center">
 
-<!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00bfa5,100:0d1117&height=200&section=header&text=Artashes%20Grigoryan&fontSize=50&fontColor=00bfa5&fontAlignY=38&desc=AI%20Systems%20Developer%20%7C%20Deep%20Learning%20%7C%20LLMs%20%7C%20Computer%20Vision&descAlignY=58&descSize=16&descColor=aaaaaa" />
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00BFA5&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;Exploring+LLMs+%26+RAG+Architectures;Deep+Learning+%7C+NLP+%7C+Computer+Vision;Turning+Research+into+Real+Applications)](https://git.io/typing-svg)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artashes-grigoryan-745670299/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artgrigoryan004@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AGrigoryan004)
-[![Location](https://img.shields.io/badge/📍_Yerevan,_Armenia-00bfa5?style=for-the-badge)](https://maps.google.com/?q=Yerevan,Armenia)
-
-</div>
 
 ## 🧠 About Me
 
