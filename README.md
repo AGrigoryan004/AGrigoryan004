@@ -137,9 +137,3 @@ Graph theory, dynamic programming, optimization, and classical algorithmic probl
 ![GenAI](https://img.shields.io/badge/Generative_AI-0D1117?style=flat-square&color=0D1117&labelColor=00D4FF)
 
 ---
-
-<div align="center">
-
-*Designing intelligent systems. &nbsp;|&nbsp; Yerevan, Armenia.*
-
-</div>
