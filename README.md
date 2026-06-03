@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/tron_banner.gif" width="100%">
+</p>
 <div align="center">
 
 <p align="center">
