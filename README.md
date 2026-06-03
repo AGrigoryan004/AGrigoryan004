@@ -1,12 +1,5 @@
 <p align="center">
-  <img src="assets/tron_banner.gif" width="100%">
-</p>
-<div align="center">
-
-<p align="center">
-  <a href="https://agrigoryan004.github.io/AGrigoryan004/tron_banner.html">
-    <img src="https://img.shields.io/badge/Launch-Interactive_AI_Interface-00E5FF?style=for-the-badge" />
-  </a>
+  <img src="tron_banner.svg" alt="Banner" width="100%"/>
 </p>
 
 ## 🧠 About Me
