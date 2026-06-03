@@ -3,26 +3,6 @@
   <img src="tron_banner.svg" width="100%" alt="TRON Banner">
 </p>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=AI+Systems+Developer;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Building+intelligent+systems+on+the+grid.)](https://git.io/typing-svg)
-
-<br/>
-
-# ARTUR GRIGORYAN
-
-**`Artificial Intelligence Systems Developer`**
-
-*Yerevan, Armenia · AI Graduate · Building on the Grid*
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=00D4FF)](https://github.com/AGrigoryan004)
-![Profile Views](https://komarev.com/ghpvc/?username=AGrigoryan004&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0A0A0A)
-
-</div>
-
----
 
 ## &nbsp; About
 
