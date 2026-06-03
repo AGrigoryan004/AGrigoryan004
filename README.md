@@ -6,9 +6,11 @@
 
 ## &nbsp; About
 
-I design and build intelligent systems at the intersection of research and engineering. My work spans **RAG-powered AI assistants**, **generative models**, **computer vision pipelines**, and **reinforcement learning** — from initial research concepts through to deployed infrastructure.
+Artificial Intelligence Systems graduate with hands-on experience in **Machine Learning**, **Deep Learning**, **Natural Language Processing**, **Computer Vision**, **Reinforcement Learning**, and **Large Language Model applications**.
 
-Currently focused on LLM applications and domain-specific AI systems using local model infrastructure.
+My projects range from **RAG-powered AI assistants** and **generative models** to **computer vision pipelines** and **algorithmic problem solving**. I enjoy exploring how intelligent systems can be designed, trained, and applied to solve practical and research-oriented challenges.
+
+Currently focused on **LLM applications**, **Retrieval-Augmented Generation**, and **domain-specific AI systems** built with local model infrastructure.
 
 ---
 
@@ -21,7 +23,10 @@ Currently focused on LLM applications and domain-specific AI systems using local
 ### 🔷 &nbsp; NOUS — IC Design AI Assistant
 
 An AI assistant built with **Retrieval-Augmented Generation**, **Llama 3**, **FastAPI**, **React**, and **Ollama**.
-Designed for intelligent Q&A, code understanding, and domain-specific knowledge retrieval using fully local LLM infrastructure.
+
+Designed for intelligent Q&A, code understanding, and domain-specific knowledge retrieval using local LLM infrastructure.
+
+Focused on assisting hardware design workflows through AI-powered retrieval and language model capabilities.
 
 [![View Repository](https://img.shields.io/badge/View_Repository-00D4FF?style=for-the-badge&logo=github&logoColor=000000&labelColor=0A0A0A)](https://github.com/AGrigoryan004/NOUS-IC-Design-Assistant)
 
