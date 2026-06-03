@@ -155,3 +155,8 @@ My work ranges from **RAG-powered AI assistants** and **generative models** to *
 *"The goal of AI is not to replace human thinking, but to amplify it."*
 
 </div>
+<p align="center">
+  <a href="https://agrigoryan004.github.io/AGrigoryan004/tron_banner.html">
+    ⚡ Interactive AI Interface
+  </a>
+</p>
