@@ -22,15 +22,25 @@
 
 ```python
 class ArtashesGrigoryan:
+
     def __init__(self):
-        self.role        = "AI Systems Developer"
-        self.location    = "Yerevan, Armenia 🇦🇲"
-        self.languages   = ["Armenian (Native)", "Russian (C1)", "English (B1)"]
-        self.interests   = ["LLMs", "RAG", "Computer Vision", "Reinforcement Learning"]
-        self.currently   = "Building AI assistants with local LLM infrastructure"
+        self.role = "Artificial Intelligence Graduate"
+        self.location = "Yerevan, Armenia"
+        self.languages = ["Armenian", "Russian", "English"]
+
+        self.interests = [
+            "Machine Learning",
+            "Deep Learning",
+            "NLP",
+            "Computer Vision",
+            "Reinforcement Learning",
+            "LLMs"
+        ]
+
+        self.currently = "Building intelligent systems using AI technologies"
 
     def mission(self):
-        return "Design intelligent systems that solve real-world problems."
+        return "Apply AI to create practical solutions for real-world problems."
 ```
 
 I'm an **AI Systems Developer** with hands-on experience in Machine Learning, Deep Learning, NLP, Computer Vision, Reinforcement Learning, and Large Language Model applications.
