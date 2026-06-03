@@ -3,16 +3,6 @@
   <img src="tron_banner.svg" width="100%" alt="TRON Banner">
 </p>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=3000&pause=1000&color=17D4D9&center=true&vCenter=true&width=500&lines=Artificial+Intelligence+Systems+Graduate;Machine+Learning+%7C+NLP+%7C+Computer+Vision;LLMs+%7C+RAG+%7C+Deep+Learning" alt="Typing SVG" />
-
-</div>
-
-## 🧠 About Me
-
-
-
 ## 🧠 About Me
 
 🎓 Artificial Intelligence Systems Graduate
