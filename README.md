@@ -120,22 +120,6 @@ Graph theory, dynamic programming, optimization, and classical algorithmic probl
 
 ---
 
-## &nbsp; GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AGrigoryan004&bg_color=0D1117&border_color=00D4FF&title_color=00D4FF&text_color=C9D1D9&icon_color=00D4FF&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
-&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AGrigoryan004&bg_color=0D1117&border_color=00D4FF&title_color=00D4FF&text_color=C9D1D9&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-
-<br/><br/>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AGrigoryan004&background=0D1117&border=00D4FF&ring=00D4FF&fire=FF6B35&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=6E7681)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## &nbsp; Research Interests
 
 ![ML](https://img.shields.io/badge/Machine_Learning-0D1117?style=flat-square&color=0D1117&labelColor=00D4FF)
